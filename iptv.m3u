@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:0,МАТЧ 
+http://persik.by/stream/808/284814/1077.m3u8
+#EXTINF:0,Матч! Арена
+http://persik.by/stream/8682/252987/261.m3u8
+#EXTINF:0,Матч! Наш спорт
+http://persik.by/stream/8682/252987/10271.m3u8
+#EXTINF:0,Матч! Игра
+http://persik.by/stream/8682/252987/10270.m3u8
+#EXTINF:-1,Матч Премьер
+http://persik.by/stream/3602/287583/10264.m3u8
+#EXTINF:0,Матч! Футбол 1
+http://persik.by/stream/8682/252987/10266.m3u8
+#EXTINF:0,Матч! Футбол 2
+http://persik.by/stream/8682/252987/10267.m3u8
+#EXTINF:0,Матч! Футбол 3
+http://persik.by/stream/8682/252987/10268.m3u8
+
+#EXTINF:0,Футбол
+http://persik.by/stream/8682/252987/440.m3u8
+
+#EXTINF:0,Кинопремьера
+http://persik.by/stream/8682/252987/10329.m3u8
+#EXTINF:0,Мужское кино
+http://persik.by/stream/8682/252987/10368.m3u8
+#EXTINF:0,Киносвидание
+http://persik.by/stream/8682/252987/30.m3u8
+#EXTINF:0,Кинохит
+http://persik.by/stream/8682/252987/213.m3u8
+#EXTINF:0,Киносерия
+http://persik.by/stream/8682/252987/278.m3u8
+#EXTINF:0,Кинокомедия
+http://persik.by/stream/8682/252987/292.m3u8
+#EXTINF:0,Киносемья
+http://persik.by/stream/8682/252987/590.m3u8
+#EXTINF:0,Киномикс
+http://persik.by/stream/8682/252987/608.m3u8
+
+#EXTINF:0,2x2
+http://persik.by/stream/8682/252987/10211.m3u8
+#EXTINF:0,ТНТ
+http://persik.by/stream/8682/252987/14.m3u8
+#EXTINF:0,СТС
+http://persik.by/stream/8682/252987/17.m3u8
+#EXTINF:0,Ю
+http://persik.by/stream/8682/252987/49.m3u8
+#EXTINF:0,Че
+http://persik.by/stream/8682/252987/56.m3u8
+
+#EXTINF:0,НСТ
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:0,Пятница
+http://ott-cdn.ucom.am/s50/index.m3u8
