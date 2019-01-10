@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:0,МАТЧ 
-http://persik.by/stream/808/284814/1077.m3u8
-#EXTINF:0,Матч! Арена
-http://persik.by/stream/8682/252987/261.m3u8
-#EXTINF:0,Матч! Наш спорт
-http://persik.by/stream/8682/252987/10271.m3u8
-#EXTINF:0,Матч! Игра
-http://persik.by/stream/8682/252987/10270.m3u8
-#EXTINF:-1,Матч Премьер
-http://persik.by/stream/3602/287583/10264.m3u8
 #EXTINF:0,Матч! Футбол 1
 http://persik.by/stream/8682/252987/10266.m3u8
 #EXTINF:0,Матч! Футбол 2
@@ -42,10 +32,6 @@ http://persik.by/stream/8682/252987/10211.m3u8
 http://persik.by/stream/8682/252987/14.m3u8
 #EXTINF:0,СТС
 http://persik.by/stream/8682/252987/17.m3u8
-#EXTINF:0,Ю
-http://persik.by/stream/8682/252987/49.m3u8
-#EXTINF:0,Че
-http://persik.by/stream/8682/252987/56.m3u8
 
 #EXTINF:0,НСТ
 http://ott-cdn.ucom.am/s87/index.m3u8
